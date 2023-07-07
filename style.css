@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+    float: auto;
+    text-decoration: none;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: aqua;
+  margin: 30px;
+}
+#scale:hover {
+  transform: rotate(365deg);
+  transform-origin: 0 100%;
+  transition: transform 1s;
+}
+#left{
+  text-decoration-line: none;
+}
