@@ -2,6 +2,7 @@
   text-align: center;
   float: auto;
   text-decoration: none;
+  justify-content: center;
 }
 .box {
   width: 100px;
